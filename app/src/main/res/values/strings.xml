@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPSTracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="go_to_maps">Go to Maps</string>
+    <string name="textview">TextView</string>
+    <string name="my_devices">My Devices</string>
+    <string name="add_device">Add Device</string>
+</resources>
